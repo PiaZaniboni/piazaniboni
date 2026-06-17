@@ -1,0 +1,158 @@
+{
+  "es": {
+    "nav": {
+      "about": "Sobre mí",
+      "work": "Trabajos",
+      "contact": "Contacto"
+    },
+    "hero": {
+      "name": "María Pía Zaniboni",
+      "title": "Full Stack Developer",
+      "subtitle": "Desarrollo de aplicaciones web escalables con Laravel y React. Especializada en ecommerce y sistemas backend.",
+      "cta": "Vamos a trabajar juntos"
+    },
+    "about": {
+      "heading": "Sobre mí",
+      "text": "Soy desarrolladora full stack con más de 8 años de experiencia. Me especializo en backend robusto con Laravel y frontend moderno con React/Next.js. He trabajado en plataformas SaaS complejas, ecommerce escalables y sistemas de gestión empresarial. Actualmente disponible para proyectos freelance."
+    },
+    "work": {
+      "heading": "Proyectos destacados",
+      "projects": [
+        {
+          "name": "Chetools",
+          "period": "2023 - 2025",
+          "description": "Plataforma SaaS para optimización de ecommerce. Desarrollé el backend escalable en Laravel manejando grandes volúmenes de datos y múltiples integraciones de clientes. Frontend dinámico en Next.js con SEO optimizado.",
+          "tech": ["Laravel", "Next.js", "MySQL", "APIs REST"],
+          "role": "Full Stack Developer"
+        },
+        {
+          "name": "Miss Marketing",
+          "period": "2017 - 2025",
+          "description": "Desarrollo y mantenimiento de plataformas ecommerce escalables en PrestaShop, WordPress y Shopify. Plugins PHP personalizados, integraciones REST API y flujos de trabajo automatizados para infraestructuras distribuidas.",
+          "tech": ["PHP", "PrestaShop", "WordPress", "Shopify", "REST APIs"],
+          "role": "Full Stack Developer"
+        },
+        {
+          "name": "TH Asesores",
+          "period": "2025 - Presente",
+          "description": "Desarrollo backend full stack en Laravel para sistemas internos de gestión empresarial en industria farmacéutica. Módulos personalizados, arquitectura de base de datos, integraciones API.",
+          "tech": ["Laravel", "MySQL", "APIs", "Arquitectura Backend"],
+          "role": "PHP / Laravel Developer"
+        }
+      ]
+    },
+    "skills": {
+      "heading": "Habilidades",
+      "categories": [
+        {
+          "name": "Backend",
+          "items": ["Laravel", "PHP", "MySQL", "REST APIs", "Arquitectura"]
+        },
+        {
+          "name": "Frontend",
+          "items": ["React", "Next.js", "JavaScript", "TypeScript", "Tailwind CSS"]
+        },
+        {
+          "name": "CMS & Plataformas",
+          "items": ["WordPress", "PrestaShop", "Shopify"]
+        },
+        {
+          "name": "Herramientas",
+          "items": ["Git", "Figma", "Postman", "Google Analytics"]
+        }
+      ]
+    },
+    "contact": {
+      "heading": "Contacto",
+      "text": "¿Tienes un proyecto en mente? Me encantaría conversar sobre cómo puedo ayudarte.",
+      "email": "piazaniboni.dev@gmail.com",
+      "links": {
+        "github": "GitHub",
+        "linkedin": "LinkedIn",
+        "behance": "Behance"
+      }
+    },
+    "footer": "Desarrollado por Pía Zaniboni"
+  },
+  "en": {
+    "nav": {
+      "about": "About",
+      "work": "Work",
+      "contact": "Contact"
+    },
+    "hero": {
+      "name": "María Pía Zaniboni",
+      "title": "Full Stack Developer",
+      "subtitle": "Building scalable web applications with Laravel and React. Specialized in ecommerce and robust backend systems.",
+      "cta": "Let's work together"
+    },
+    "about": {
+      "heading": "About me",
+      "text": "I'm a full stack developer with 8+ years of experience. I specialize in robust backend development with Laravel and modern frontend with React/Next.js. I've built complex SaaS platforms, scalable ecommerce solutions, and enterprise management systems. Currently available for freelance projects."
+    },
+    "work": {
+      "heading": "Featured work",
+      "projects": [
+        {
+          "name": "Chetools",
+          "period": "2023 - 2025",
+          "description": "SaaS platform for ecommerce optimization. Built scalable backend in Laravel handling large datasets and multiple client integrations. Dynamic frontend in Next.js with SEO optimization.",
+          "tech": ["Laravel", "Next.js", "MySQL", "REST APIs"],
+          "role": "Full Stack Developer"
+        },
+        {
+          "name": "Miss Marketing",
+          "period": "2017 - 2025",
+          "description": "Development and maintenance of scalable ecommerce platforms on PrestaShop, WordPress, and Shopify. Custom PHP plugins, REST API integrations, and automated workflows for distributed infrastructures.",
+          "tech": ["PHP", "PrestaShop", "WordPress", "Shopify", "REST APIs"],
+          "role": "Full Stack Developer"
+        },
+        {
+          "name": "TH Asesores",
+          "period": "2025 - Present",
+          "description": "Full stack backend development in Laravel for enterprise business management systems in pharmaceutical industry. Custom modules, database architecture, API integrations.",
+          "tech": ["Laravel", "MySQL", "APIs", "Backend Architecture"],
+          "role": "PHP / Laravel Developer"
+        }
+      ]
+    },
+    "skills": {
+      "heading": "Skills",
+      "categories": [
+        {
+          "name": "Backend",
+          "items": ["Laravel", "PHP", "MySQL", "REST APIs", "Architecture"]
+        },
+        {
+          "name": "Frontend",
+          "items": ["React", "Next.js", "JavaScript", "TypeScript", "Tailwind CSS"]
+        },
+        {
+          "name": "CMS & Platforms",
+          "items": ["WordPress", "PrestaShop", "Shopify"]
+        },
+        {
+          "name": "Tools",
+          "items": ["Git", "Figma", "Postman", "Google Analytics"]
+        }
+      ]
+    },
+    "contact": {
+      "heading": "Get in touch",
+      "text": "Have a project in mind? I'd love to talk about how I can help.",
+      "email": "piazaniboni.dev@gmail.com",
+
+      "links": {
+        "github": "GitHub",
+        "linkedin": "LinkedIn",
+        "behance": "Behance"
+      }
+    },
+    "footer": "Designed and built by Pía Zaniboni"
+  },
+  "socialLinks": {
+    "github": "https://github.com/PiaZaniboni",
+    "linkedin": "https://linkedin.com/in/pia-zaniboni/",
+    "behance": "https://behance.net/mpiazaniboni10"
+  }
+}
