@@ -32,7 +32,7 @@ export default function Portfolio() {
       {/* Header */}
       <header className={`fixed top-0 left-0 right-0 z-50 transition-colors duration-300 ${darkMode ? 'bg-gray-950/95 border-gray-800' : 'bg-white/95 border-gray-100'} backdrop-blur border-b`}>
         <nav className="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
-          <a href="#top" className="text-lg font-medium">Pía</a>
+          <a href="#top" className="text-lg font-medium">MPZ</a>
           
           {/* Desktop Nav */}
           <div className="hidden md:flex items-center gap-8">

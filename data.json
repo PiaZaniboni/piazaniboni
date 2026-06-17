@@ -7,13 +7,14 @@
     },
     "hero": {
       "name": "María Pía Zaniboni",
-      "title": "Full Stack Developer",
-      "subtitle": "Desarrollo de aplicaciones web escalables con Laravel y React. Especializada en ecommerce y sistemas backend.",
+      "title": "Full Stack Developer | React, Next.js & TypeScript",
+      "subHero": "Ecommerce • Aplicaciones Web • Soluciones Digitales",
+      "subtitle": "Más de 9 años desarrollando ecommerce, aplicaciones web y soluciones digitales. Experiencia en PHP, MySQL, React, Next.js e integración de APIs para proyectos escalables.",
       "cta": "Vamos a trabajar juntos"
     },
     "about": {
       "heading": "Sobre mí",
-      "text": "Soy desarrolladora full stack con más de 8 años de experiencia. Me especializo en backend robusto con Laravel y frontend moderno con React/Next.js. He trabajado en plataformas SaaS complejas, ecommerce escalables y sistemas de gestión empresarial. Actualmente disponible para proyectos freelance."
+      "text": "Soy Full Stack Developer y Licenciada en Diseño Multimedial, con más de 9 años de experiencia desarrollando ecommerce, aplicaciones web y soluciones digitales. Mi recorrido profesional comenzó en el desarrollo con PHP, MySQL, WordPress y PrestaShop, construyendo plataformas para marcas internacionales y proyectos de alto tráfico. En los últimos años he orientado mi crecimiento hacia tecnologías modernas como React, Next.js y TypeScript, participando en el desarrollo de productos digitales y aplicaciones web escalables. Actualmente trabajo como desarrolladora freelance, ayudando a empresas y emprendedores a transformar ideas en soluciones web sólidas, mantenibles y centradas en las personas."
     },
     "work": {
       "heading": "Proyectos destacados",
@@ -21,23 +22,39 @@
         {
           "name": "Chetools",
           "period": "2023 - 2025",
-          "description": "Plataforma SaaS para optimización de ecommerce. Desarrollé el backend escalable en Laravel manejando grandes volúmenes de datos y múltiples integraciones de clientes. Frontend dinámico en Next.js con SEO optimizado.",
-          "tech": ["Laravel", "Next.js", "MySQL", "APIs REST"],
-          "role": "Full Stack Developer"
+          "description": "Participación en el desarrollo de una plataforma orientada a la optimización de ecommerce mediante inteligencia artificial. Colaboración en funcionalidades backend, procesamiento de catálogos, integraciones y mejoras de experiencia de usuario para herramientas de búsqueda, recomendaciones y retail media.",
+          "tech": [
+            "Laravel",
+            "Next.js",
+            "MySQL",
+            "REST APIs"
+          ],
+          "role": "Software Developer"
         },
         {
           "name": "Miss Marketing",
           "period": "2017 - 2025",
-          "description": "Desarrollo y mantenimiento de plataformas ecommerce escalables en PrestaShop, WordPress y Shopify. Plugins PHP personalizados, integraciones REST API y flujos de trabajo automatizados para infraestructuras distribuidas.",
-          "tech": ["PHP", "PrestaShop", "WordPress", "Shopify", "REST APIs"],
+          "description": "Desarrollo y mantenimiento de plataformas ecommerce para marcas internacionales utilizando PrestaShop, WordPress y Shopify. Creación de plugins y módulos personalizados, integraciones API, optimización de rendimiento y despliegues en entornos de alta demanda.",
+          "tech": [
+            "PHP",
+            "PrestaShop",
+            "WordPress",
+            "Shopify",
+            "REST APIs"
+          ],
           "role": "Full Stack Developer"
         },
         {
           "name": "TH Asesores",
           "period": "2025 - Presente",
-          "description": "Desarrollo backend full stack en Laravel para sistemas internos de gestión empresarial en industria farmacéutica. Módulos personalizados, arquitectura de base de datos, integraciones API.",
-          "tech": ["Laravel", "MySQL", "APIs", "Arquitectura Backend"],
-          "role": "PHP / Laravel Developer"
+          "description": "Desarrollo de sistemas internos para gestión empresarial utilizando Laravel, MySQL y tecnologías modernas de frontend. Implementación de módulos personalizados, arquitectura de datos e integraciones con servicios externos.",
+          "tech": [
+            "Laravel",
+            "MySQL",
+            "REST APIs",
+            "React"
+          ],
+          "role": "Full Stack Developer"
         }
       ]
     },
@@ -46,25 +63,48 @@
       "categories": [
         {
           "name": "Backend",
-          "items": ["Laravel", "PHP", "MySQL", "REST APIs", "Arquitectura"]
+          "items": [
+            "PHP",
+            "Laravel",
+            "MySQL",
+            "REST APIs",
+            "Custom Plugins & Modules"
+          ]
         },
         {
           "name": "Frontend",
-          "items": ["React", "Next.js", "JavaScript", "TypeScript", "Tailwind CSS"]
+          "items": [
+            "React",
+            "Next.js",
+            "TypeScript",
+            "JavaScript",
+            "Tailwind CSS",
+            "Sass"
+          ]
         },
         {
-          "name": "CMS & Plataformas",
-          "items": ["WordPress", "PrestaShop", "Shopify"]
+          "name": "CMS & Ecommerce",
+          "items": [
+            "WordPress",
+            "PrestaShop",
+            "Shopify"
+          ]
         },
         {
           "name": "Herramientas",
-          "items": ["Git", "Figma", "Postman", "Google Analytics"]
+          "items": [
+            "Git",
+            "Postman",
+            "Google Tag Manager",
+            "Google Analytics",
+            "Figma"
+          ]
         }
       ]
     },
     "contact": {
       "heading": "Contacto",
-      "text": "¿Tienes un proyecto en mente? Me encantaría conversar sobre cómo puedo ayudarte.",
+      "text": "¿Tienes un proyecto en mente o buscas sumar experiencia técnica a tu equipo? Me encantaría conversar sobre cómo puedo ayudarte.",
       "email": "piazaniboni.dev@gmail.com",
       "links": {
         "github": "GitHub",
@@ -72,8 +112,9 @@
         "behance": "Behance"
       }
     },
-    "footer": "Desarrollado por Pía Zaniboni"
+    "footer": "Diseñado y desarrollado por Pía Zaniboni"
   },
+
   "en": {
     "nav": {
       "about": "About",
@@ -82,37 +123,54 @@
     },
     "hero": {
       "name": "María Pía Zaniboni",
-      "title": "Full Stack Developer",
-      "subtitle": "Building scalable web applications with Laravel and React. Specialized in ecommerce and robust backend systems.",
+      "title": "Full Stack Developer | React, Next.js & TypeScript",
+      "subHero": "Ecommerce • Web Applications • Digital Solutions",
+      "subtitle": "9+ years building ecommerce platforms, web applications, and digital products. Experienced in PHP, MySQL, React, Next.js, and API integrations for scalable solutions.",
       "cta": "Let's work together"
     },
     "about": {
       "heading": "About me",
-      "text": "I'm a full stack developer with 8+ years of experience. I specialize in robust backend development with Laravel and modern frontend with React/Next.js. I've built complex SaaS platforms, scalable ecommerce solutions, and enterprise management systems. Currently available for freelance projects."
+      "text": "I'm a Full Stack Developer and Multimedia Design graduate with over 9 years of experience building ecommerce platforms, custom web applications, and digital products. My background is strongly rooted in PHP, MySQL, WordPress, and PrestaShop, where I spent years developing scalable ecommerce solutions and high-traffic websites. Over the last few years, I have focused my professional growth on modern technologies such as React, Next.js, and TypeScript, applying them in real-world projects and digital products. Today, I work as a freelance developer, helping companies and entrepreneurs transform ideas into reliable, scalable, and user-centered web solutions."
     },
     "work": {
-      "heading": "Featured work",
+      "heading": "Featured Work",
       "projects": [
         {
           "name": "Chetools",
           "period": "2023 - 2025",
-          "description": "SaaS platform for ecommerce optimization. Built scalable backend in Laravel handling large datasets and multiple client integrations. Dynamic frontend in Next.js with SEO optimization.",
-          "tech": ["Laravel", "Next.js", "MySQL", "REST APIs"],
-          "role": "Full Stack Developer"
+          "description": "Contributed to the development of an AI-powered ecommerce optimization platform. Worked on backend features, catalog processing, integrations, and user experience improvements for search, recommendation, and retail media tools.",
+          "tech": [
+            "Laravel",
+            "Next.js",
+            "MySQL",
+            "REST APIs"
+          ],
+          "role": "Software Developer"
         },
         {
           "name": "Miss Marketing",
           "period": "2017 - 2025",
-          "description": "Development and maintenance of scalable ecommerce platforms on PrestaShop, WordPress, and Shopify. Custom PHP plugins, REST API integrations, and automated workflows for distributed infrastructures.",
-          "tech": ["PHP", "PrestaShop", "WordPress", "Shopify", "REST APIs"],
+          "description": "Developed and maintained ecommerce platforms for international brands using PrestaShop, WordPress, and Shopify. Built custom plugins and modules, API integrations, performance optimizations, and deployments for high-demand environments.",
+          "tech": [
+            "PHP",
+            "PrestaShop",
+            "WordPress",
+            "Shopify",
+            "REST APIs"
+          ],
           "role": "Full Stack Developer"
         },
         {
           "name": "TH Asesores",
           "period": "2025 - Present",
-          "description": "Full stack backend development in Laravel for enterprise business management systems in pharmaceutical industry. Custom modules, database architecture, API integrations.",
-          "tech": ["Laravel", "MySQL", "APIs", "Backend Architecture"],
-          "role": "PHP / Laravel Developer"
+          "description": "Development of internal business management systems using Laravel, MySQL, and modern frontend technologies. Built custom modules, data architecture, and integrations with external services.",
+          "tech": [
+            "Laravel",
+            "MySQL",
+            "REST APIs",
+            "React"
+          ],
+          "role": "Full Stack Developer"
         }
       ]
     },
@@ -121,27 +179,48 @@
       "categories": [
         {
           "name": "Backend",
-          "items": ["Laravel", "PHP", "MySQL", "REST APIs", "Architecture"]
+          "items": [
+            "PHP",
+            "Laravel",
+            "MySQL",
+            "REST APIs",
+            "Custom Plugins & Modules"
+          ]
         },
         {
           "name": "Frontend",
-          "items": ["React", "Next.js", "JavaScript", "TypeScript", "Tailwind CSS"]
+          "items": [
+            "React",
+            "Next.js",
+            "TypeScript",
+            "JavaScript",
+            "Tailwind CSS",
+            "Sass"
+          ]
         },
         {
-          "name": "CMS & Platforms",
-          "items": ["WordPress", "PrestaShop", "Shopify"]
+          "name": "CMS & Ecommerce",
+          "items": [
+            "WordPress",
+            "PrestaShop"
+          ]
         },
         {
           "name": "Tools",
-          "items": ["Git", "Figma", "Postman", "Google Analytics"]
+          "items": [
+            "Git",
+            "Postman",
+            "Google Tag Manager",
+            "Google Analytics",
+            "Figma"
+          ]
         }
       ]
     },
     "contact": {
       "heading": "Get in touch",
-      "text": "Have a project in mind? I'd love to talk about how I can help.",
+      "text": "Do you have a project in mind or are you looking to add technical expertise to your team? I'd love to discuss how I can help.",
       "email": "piazaniboni.dev@gmail.com",
-
       "links": {
         "github": "GitHub",
         "linkedin": "LinkedIn",
